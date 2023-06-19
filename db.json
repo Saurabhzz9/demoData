@@ -1,14 +1,23 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "LOB": "Test",
+    "From Date": "Jun 6 2023",
+    "To Date": "Jun 10 2023",
+    "Automation": "473 pricing",
+    "Frequency": "Monthyl"
+  },
+  {
+    "LOB": "M&R",
+    "From Date": "Jun 6 2023",
+    "To Date": "Jun 11 2023",
+    "Automation": "Adj Marco.xml",
+    "Frequency": "Quarter1"
+  },
+  {
+    "LOB": "C&R",
+    "From Date": "Jun 6 2023",
+    "To Date": "Jun 12 2023",
+    "Automation": "madjj",
+    "Frequency": "Quarter 2"
   }
-}
+]
